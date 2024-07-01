@@ -1,0 +1,9 @@
+data_sources:
+  - name: Land Use Statistics
+    url: 'https://en.wikipedia.org/wiki/Land_use_statistics_by_country'
+    table_index: 0
+    output_file: 'Agriculture_data_around_world.csv'
+  - name: North America Fertilizer Market
+    url: 'https://www.sphericalinsights.com/reports/north-america-fertilizer-market'
+    table_index: 0
+    output_file: 'fertilizer_market_report.csv'
